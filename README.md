@@ -1,6 +1,6 @@
 # 🥳 Ultra Proyect Base Free © 🥳
 
-🚜 Base de **Ultra Proyect**. Esta es una base sensilla **gratis y segura**, 
+🚜 Base de **Ultra Proyect**. Esta es una base sencilla **gratis y segura**, 
 Ya configurada para prenderla y salir andando 🚄!. Tiene los scripts basicos y necesarios para 
 no tener que andar buscando 🔎 por ahi descargando cosas que no son!. Esta base es libre de configurarla como quieras y usarla para tu servidor! 🔮.
 Recuerda entrar a nuestro discord! https://discord.gg/baGcmCDfKJ 📡
